@@ -137,20 +137,4 @@ If you haven't already created the `database.sql` file, follow these steps:
 
 ### **Complete README.md Example**
 
-Here's how your `README.md` might look with the database instructions included:
-
-```markdown
-# Fruit Snacks Paradise
-
-Welcome to **Fruit Snacks Paradise**! A fun and creative website for sharing and managing fruit snack recipes.
-
-## Features
-
-- User registration and authentication
-- Create, read, update, and delete fruit snack entries
-- Upload and display images of fruit snacks
-- Protected pages accessible only to logged-in users
-- Client-side validation using JavaScript
-- Sessions and cookies for persistent login
-- Fun and creative design with playful fonts and vibrant colors
 
