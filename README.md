@@ -27,4 +27,4 @@ Welcome to **Fruit Snacks Paradise**! A fun and creative website for sharing and
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/vari/fruit-snacks-paradise.git
+   git clone https://github.com/vari404/fruit-snacks-paradise.git
